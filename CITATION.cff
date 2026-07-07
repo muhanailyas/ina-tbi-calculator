@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software prototype, please cite the repository and the specific version or commit used."
+title: "INA-TBI Calculator"
+type: software
+authors:
+  - family-names: "Ilyas"
+    given-names: "Muhana Fawwazy"
+    orcid: "https://orcid.org/0000-0002-0176-9773"
+repository-code: "https://github.com/muhanailyas/ina-tbi-calculator"
+url: "https://github.com/muhanailyas/ina-tbi-calculator"
+license: MIT
+version: "0.1.0"
+date-released: "2026-07-06"
+keywords:
+  - traumatic brain injury
+  - prognostic calculator
+  - neurotrauma
+  - biomarkers
+  - clinical prediction
+  - streamlit
+abstract: "A transparent, rule-based research prototype for organizing candidate traumatic brain injury prognostic factors into basic, intermediate, and advanced data-availability tiers. The prototype is not clinically validated and is not intended for clinical decision-making."
